@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.log
+
+# Data & outputs (uncomment if you don't want to publish)
+data/
+outputs/
+*.xes
+*.csv
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
